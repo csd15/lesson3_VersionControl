@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Cellina Danvers)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(The purpose of this assignment was to become more familiar with editing code and gaining a better understanding of VCS and GitHub)
+
+## View Project:
+(https://csd15.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Follow all of the directions for creating repositories carefully and double check all code before pressing enter.)
+2. (Do not wait until the last day to turn in your assignments.)
+3. (Version control is a concept but VCS is the actual system. Try not to get them confused.)
 
